@@ -12,34 +12,27 @@ let graph = [];
 const getNumArr = (line) => line.split(" ").map((n) => +n);
 
 const solve = () => {
-  const INF = 99999;
-  const dist = Array(501).fill(INF);
+  const dist = Array(N).fill(Infinity);
   dist[1] = 0;
+  let cycle = false;
 
   // 모든 라인을 순회
-  for (let n = 1; n <= N - 1; n++) {
+  for (let n = 1; n < N; n++) {
     for (let [A, B, C] of graph) {
-      if (dist[A] === INF) continue;
+      if (dist[A] === Infinity) continue;
       const sum = dist[A] + C;
       if (dist[B] <= sum) continue;
       dist[B] = sum;
-    }
-  }
-
-  // cycle 체크
-  for (let n = 1; n <= N - 1; n++) {
-    for (let [A, B, C] of graph) {
-      if (dist[A] === INF) continue;
-      const sum = dist[A] + C;
-      if (dist[B] <= sum) continue;
-
-      console.log("-1");
-      return;
+      isUpdated = true;
+      if (n === N - 1) {
+        console.log(-1);
+        return;
+      }
     }
   }
 
   for (let n = 2; n <= N; n++) {
-    if (dist[n] === INF) console.log(-1);
+    if (dist[n] === Infinity) console.log(-1);
     else console.log(dist[n]);
   }
 };
