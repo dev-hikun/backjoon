@@ -7,7 +7,8 @@
 - 11659 구간 합 구하기 4
 - 11657 타임머신
 - 1010 다리놓기
-- 2562 최댓값
-- 3052 나머지
+- [2562](https://www.acmicpc.net/problem/2562) 최댓값
+- [3052](https://www.acmicpc.net/problem/3052) 나머지
+- [2042](https://www.acmicpc.net/problem/2042) 구간 합 구하기
 
 ### 아직 해결되지 않은 문제
