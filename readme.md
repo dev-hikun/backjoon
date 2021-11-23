@@ -15,3 +15,4 @@
 - [2042](https://www.acmicpc.net/problem/2042) 구간 합 구하기
 - [5622](https://www.acmicpc.net/problem/5622) 다이얼
 - [5622](https://www.acmicpc.net/problem/1316) 그룹 단어 체커
+- [5622](https://www.acmicpc.net/problem/5430) AC
