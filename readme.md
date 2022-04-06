@@ -2,11 +2,11 @@
 
 ### 해결된 문제
 
-- 1912 연속합
-- 4948 베르트랑 공준
-- 11659 구간 합 구하기 4
-- 11657 타임머신
-- 1010 다리놓기
+- [1912](https://www.acmicpc.net/problem/1912) 연속합
+- [4948](https://www.acmicpc.net/problem/4948) 베르트랑 공준
+- [11659](https://www.acmicpc.net/problem/11659) 구간 합 구하기 4
+- [11657](https://www.acmicpc.net/problem/11657) 타임머신
+- [1010](https://www.acmicpc.net/problem/1010) 다리놓기
 - [1157](https://www.acmicpc.net/problem/1157) 단어공부
 - [2908](https://www.acmicpc.net/problem/2908) 상수
 - [8958](https://www.acmicpc.net/problem/8958) OX퀴즈
@@ -14,5 +14,9 @@
 - [3052](https://www.acmicpc.net/problem/3052) 나머지
 - [2042](https://www.acmicpc.net/problem/2042) 구간 합 구하기
 - [5622](https://www.acmicpc.net/problem/5622) 다이얼
-- [5622](https://www.acmicpc.net/problem/1316) 그룹 단어 체커
-- [5622](https://www.acmicpc.net/problem/5430) AC
+- [1316](https://www.acmicpc.net/problem/1316) 그룹 단어 체커
+- [5430](https://www.acmicpc.net/problem/5430) AC
+- [2941](https://www.acmicpc.net/problem/2941) 크로아티아 알파벳
+- [1068](https://www.acmicpc.net/problem/1068) 트리
+- [1157](https://www.acmicpc.net/problem/1157) 단어공부
+- [14713](https://www.acmicpc.net/problem/14713) 앵무새
