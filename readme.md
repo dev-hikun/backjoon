@@ -20,3 +20,5 @@
 - [1068](https://www.acmicpc.net/problem/1068) 트리
 - [1157](https://www.acmicpc.net/problem/1157) 단어공부
 - [14713](https://www.acmicpc.net/problem/14713) 앵무새
+- [16967](https://www.acmicpc.net/problem/16967) 배열 복원하기
+- [2164](https://www.acmicpc.net/problem/2164) 카드2
