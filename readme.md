@@ -23,3 +23,4 @@
 - [16967](https://www.acmicpc.net/problem/16967) 배열 복원하기
 - [2164](https://www.acmicpc.net/problem/2164) 카드2
 - [2920](https://www.acmicpc.net/problem/2920) 음계
+- [2475](https://www.acmicpc.net/problem/2475) 검증수
