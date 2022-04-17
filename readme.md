@@ -30,3 +30,4 @@
 - [2751](https://www.acmicpc.net/problem/2751) 수 정렬하기
 - [7568](https://www.acmicpc.net/problem/7568) 덩치
 - [10814](https://www.acmicpc.net/problem/10814) 나이순 정렬
+- [10773](https://www.acmicpc.net/problem/10773) 제로

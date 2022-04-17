@@ -1,11 +1,6 @@
-const readline = require('readline');
-const rl = readline.createInterface({
-	input: process.stdin,
-	output: process.stdout,
-});
 
-const input = [];
-rl.on('line', (line) => input.push(line)).on('close', () => {
+const fs = require('fs');
+let input = fs.readFileSync('/dev/stdin').toString().trim().split('\n');
 	const [N, ...arr] = input;
 	let max = -9999;
 	let min = 9999;
