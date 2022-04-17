@@ -24,3 +24,4 @@
 - [2164](https://www.acmicpc.net/problem/2164) 카드2
 - [2920](https://www.acmicpc.net/problem/2920) 음계
 - [2475](https://www.acmicpc.net/problem/2475) 검증수
+- [1018](https://www.acmicpc.net/problem/1018) 체스판 다시 칠하기
