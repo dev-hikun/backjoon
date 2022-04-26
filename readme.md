@@ -31,3 +31,5 @@
 - [7568](https://www.acmicpc.net/problem/7568) 덩치
 - [10814](https://www.acmicpc.net/problem/10814) 나이순 정렬
 - [10773](https://www.acmicpc.net/problem/10773) 제로
+- [14557](https://www.acmicpc.net/problem/14557) Memory
+- [10866](https://www.acmicpc.net/problem/10866) Deque
