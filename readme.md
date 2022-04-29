@@ -35,3 +35,4 @@
 - [10866](https://www.acmicpc.net/problem/10866) Deque
 - [22410](https://www.acmicpc.net/problem/22410) 幾何問題を解こう (기하학을 풀자)
 - [1259](https://www.acmicpc.net/problem/1259) 팰린드롬수
+- [1257](https://www.acmicpc.net/problem/1257) [랜선자르기](1257%20랜선%20자르기/answer.js) / 이분탐색(binary search)
