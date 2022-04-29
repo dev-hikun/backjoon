@@ -33,3 +33,4 @@
 - [10773](https://www.acmicpc.net/problem/10773) 제로
 - [14557](https://www.acmicpc.net/problem/14557) Memory
 - [10866](https://www.acmicpc.net/problem/10866) Deque
+- [22410](https://www.acmicpc.net/problem/22410) 幾何問題を解こう (기하학을 풀자)
