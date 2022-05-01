@@ -37,3 +37,4 @@
 - [1259](https://www.acmicpc.net/problem/1259) 팰린드롬수
 - [1257](https://www.acmicpc.net/problem/1257) [랜선자르기](1257%20랜선%20자르기/answer.js) / 이분탐색(binary search)
 - [10816](https://www.acmicpc.net/problem/10816) [숫자카드](10816%20숫자카드2/answer.js)
+- [4949](https://www.acmicpc.net/problem/4949) [균형잡힌 세상](4949%20균형잡힌%20세상/answer.js)
