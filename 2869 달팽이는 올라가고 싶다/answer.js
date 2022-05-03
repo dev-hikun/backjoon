@@ -1,0 +1,2 @@
+const input = [];
+require('readline').createInterface({input:process.stdin,output:process.stdout}).on('line', (l) => input.push(l)).on('close', () => { const [A,B,V] = input[0].split(' ').map(Number); console.log(Math.ceil((V-B)/(A-B))); });

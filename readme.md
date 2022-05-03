@@ -15,6 +15,7 @@
 - [2042](https://www.acmicpc.net/problem/2042) [구간 합 구하기](2042%20구간%20합%20구하기/answer.js)
 - [5622](https://www.acmicpc.net/problem/5622) [다이얼](5622%20다이얼/answer.js)
 - [1316](https://www.acmicpc.net/problem/1316) [그룹 단어 체커](1316%20그룹%20단어%20체커/answer.js)
+- [2869](https://www.acmicpc.net/problem/2869) 달팽이는 올라가고 싶다
 - [5430](https://www.acmicpc.net/problem/5430) AC
 - [2941](https://www.acmicpc.net/problem/2941) 크로아티아 알파벳
 - [1068](https://www.acmicpc.net/problem/1068) 트리
@@ -30,7 +31,7 @@
 - [2751](https://www.acmicpc.net/problem/2751) 수 정렬하기
 - [7568](https://www.acmicpc.net/problem/7568) 덩치
 - [10814](https://www.acmicpc.net/problem/10814) 나이순 정렬
-- [10773](https://www.acmicpc.net/problem/10773) 제로
+- [10773](https://www.acmicpc.net/problem/10773) 제로 
 - [14557](https://www.acmicpc.net/problem/14557) Memory
 - [10866](https://www.acmicpc.net/problem/10866) Deque
 - [22410](https://www.acmicpc.net/problem/22410) 幾何問題を解こう (기하학을 풀자)
